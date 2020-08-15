@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **samj1912/samj1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+- 🔭 I’m currently working for Bloomberg(@bloomberg) as a part of their Artificial Intelligence group.
+- 🌱 I maintain several [open source projects](https://github.com/samj1912) like [picard](https://github.com/metabrainz/picard), [pydocstyle](https://github.com/PyCQA/pydocstyle) and [cruft](https://github.com/timothycrosley/cruft)
+- 💬 ``@samj1912`` on freenode
+- ⚡ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/sambhav-kothari/)
+
+[![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samj1912)](https://github.com/anuraghazra/github-readme-stats)
