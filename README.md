@@ -13,12 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
 
-- 🔭 I’m currently working for Bloomberg(@bloomberg) as a part of their Artificial Intelligence group.
+
+### Hi there, I'm Sambhav 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/sambhav--kothari-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/sambhav-kothari/)](https://www.linkedin.com/in/sambhav-kothari/)
+[![Twitter Badge](https://img.shields.io/badge/-@__sambhavkothari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_sambhavkothari)](https://twitter.com/_sambhavkothari)
+[![Gmail Badge](https://img.shields.io/badge/-sambhavs.email-f5493b?style=flat-square&logo=Gmail&logoColor=ffffff&labelColor=f5493b&link=mailto:sambhavs.email@gmail.com)](mailto:sambhavs.email@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@sambhavkothari-000000?style=flat-square&labelColor=000000&logo=Medium&logoColor=ffffff&link=https://medium.com/@sambhavkothari)](https://medium.com/@sambhavkothari)
+- 🔭 I’m currently working at [@bloomberg](https://github.com/bloomberg) as a part of their Artificial Intelligence group.
 - 🌱 I maintain several [open source projects](https://github.com/samj1912) like [picard](https://github.com/metabrainz/picard), [pydocstyle](https://github.com/PyCQA/pydocstyle) and [cruft](https://github.com/timothycrosley/cruft)
-- 💬 ``@samj1912`` on freenode
-- ⚡ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/sambhav-kothari/)
 
 [![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
