@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at [@bloomberg](https://github.com/bloomberg) as a part of their Artificial Intelligence group.
 - 🌱 I maintain several [open source projects](https://github.com/samj1912) like [picard](https://github.com/metabrainz/picard), [pydocstyle](https://github.com/PyCQA/pydocstyle) and [cruft](https://github.com/cruft/cruft)
 
-[![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true)](https://github.com/samj1912)
+[![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true&include_all_commits=true)](https://github.com/samj1912)
 
 
 ----------------
