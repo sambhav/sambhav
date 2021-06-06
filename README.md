@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/sambhav--kothari-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/sambhav-kothari/)](https://www.linkedin.com/in/sambhav-kothari/)
 [![Twitter Badge](https://img.shields.io/badge/-@__sambhavkothari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_sambhavkothari)](https://twitter.com/_sambhavkothari)
 
-- 🔭 I’m currently working at [@bloomberg](https://github.com/bloomberg) as a part of their Artificial Intelligence group.
+- 🔭 I’m currently working at [@bloomberg](https://github.com/bloomberg) as an ML Platform Engineer in their Artificial Intelligence group.
 - 🌱 I'm a maintainer on several [open source projects](https://github.com/samj1912) like [buildpacks](https://github.com/buildpacks), [pydocstyle](https://github.com/PyCQA/pydocstyle), [cruft](https://github.com/cruft/cruft) and [picard](https://github.com/metabrainz/picard).
 
 [![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true&include_all_commits=true)](https://github.com/samj1912)
