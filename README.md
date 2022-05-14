@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [@bloomberg](https://github.com/bloomberg) as an ML Platform Engineer in their AI group.
 - 🌱 I'm a maintainer on several [open source projects](https://github.com/samj1912) like [buildpacks](https://github.com/buildpacks), [kyverno](https://github.com/kyverno/kyverno), [pydocstyle](https://github.com/PyCQA/pydocstyle), [cruft](https://github.com/cruft/cruft) and [picard](https://github.com/metabrainz/picard).
-- 💼 I'm hiring experienced platform engineers - https://bloom.bg/aiplatformeng
+- 💼 Interested in working with me? We're hiring - https://bloom.bg/aiplatformeng
 
 [![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true&include_all_commits=true)](https://github.com/samj1912)
 
