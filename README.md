@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@__sambhavkothari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_sambhavkothari)](https://twitter.com/_sambhavkothari)
 
 - 🔭 I’m currently working at [@bloomberg](https://github.com/bloomberg) as a Team Lead in their AI group.
-- 🌱 I'm a maintainer on several [open source projects](https://github.com/samj1912) like [buildpacks](https://github.com/buildpacks), [kyverno](https://github.com/kyverno/kyverno), [pydocstyle](https://github.com/PyCQA/pydocstyle), [cruft](https://github.com/cruft/cruft) and [hera](https://github.com/argoproj-labs/hera-workflows).
+- 🌱 I'm an active maintainer on several [open source projects](https://github.com/samj1912) like [buildpacks](https://github.com/buildpacks), [pydocstyle](https://github.com/PyCQA/pydocstyle), [cruft](https://github.com/cruft/cruft) and [hera](https://github.com/argoproj-labs/hera-workflows).
+- I have been involved with other open source projects as a maintainer in the past like [kyverno](https://github.com/kyverno/kyverno) and [picard](https://github.com/metabrainz/picard).
 
 
 [![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true&include_all_commits=true)](https://github.com/samj1912)
