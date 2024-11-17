@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 - ⌛I have been involved with other open source projects as a maintainer in the past, such as [kyverno](https://github.com/kyverno/kyverno) and [picard](https://github.com/metabrainz/picard).
 
 
-[![samj1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=samj1912&show_icons=true&include_all_commits=true)](https://github.com/samj1912)
+[![sambhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sambhav&show_icons=true&include_all_commits=true)](https://github.com/sambhav)
 
 
 ----------------
-[![GitHub followers](https://img.shields.io/github/followers/samj1912?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/samj1912?tab=followers)
-![](https://komarev.com/ghpvc/?username=samj1912&style=flat-square&color=595959)
+[![GitHub followers](https://img.shields.io/github/followers/sambhav?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/sambhav?tab=followers)
+![](https://komarev.com/ghpvc/?username=sambhav&style=flat-square&color=595959)
 
