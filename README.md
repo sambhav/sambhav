@@ -6,7 +6,7 @@ I'm Head of Foundational AI Platforms at [Bloomberg](https://github.com/bloomber
 
 **Open source**
 
-- [Model Context Protocol](https://modelcontextprotocol.io/): maintainer, and lead of the MCP Financial Services Interest Group
+- [Model Context Protocol](https://modelcontextprotocol.io/): maintainer, and lead of the [MCP Financial Services Interest Group](https://github.com/modelcontextprotocol/financial-services-interest-group)
 - [Agentic AI Foundation](https://aaif.io/tc): Technical Committee
 - [Cloud Native Buildpacks](https://github.com/buildpacks): maintainer and Steering Committee
 - [CloudCoil](https://github.com/cloudcoil/cloudcoil): creator
